@@ -1,0 +1,19 @@
+/*Style for body*/ body{ 
+    text-align:center;
+}
+
+ /*Style for paragraph tag*/ #firstp{ word-spacing: 10px;
+     font-variant: small-caps;
+      text-align: center; font-size: 80px;
+    }
+      #reasontext{ font-size:20px; 
+    }
+    #album
+    {
+     
+      border-bottom: 3px solid #689F38;   
+      padding: 2px;
+      
+      height: 400px;
+    }
+    
